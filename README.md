@@ -9,9 +9,18 @@ This will be done by combining the AMDEC and FBS Linkage methods to create a new
 
 Group 1 : FBS Linkage & failure propagation mode (AnyLogic, Javascript)
 
-See file named : 
-
+1) See folder named : FMECAGen_PropagationV3
+2) Open AnyLogic file named : EITM_FBSRiskSimulation_Propagation.alp
+3) Run it
 
 Group 2 : FMEA table generator (Python)
 
-See file named : ImportFile.py
+1) See folder named : FMECAGen_Python 
+2) Open Python file named : ImportFile_20220512
+3) Change path of the imported file (FBSdatabase - Copie) if necessary
+4) Run ImportFile_20220512
+
+
+Comments :
+If you need more information about the project, read the project report "PJT2A_Rapport_FMEAgen.pdf". The work is not finished yet. Indeed, one part of the code is made with Python, the other with AnyLogic. The goal is to combine the 2 codes, so you have to pass either everything in python or everything in AnyLogic. Enjoy!
+
