@@ -14,4 +14,4 @@ See file named :
 
 Group 2 : FMEA table generator (Python)
 
-See file named : ImportFile.python
+See file named : ImportFile.py
