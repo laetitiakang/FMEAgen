@@ -22,5 +22,5 @@ Group 2 : FMEA table generator (Python)
 
 
 Comments :
-If you need more information about the project, read the project report "PJT2A_Rapport_FMEAgen.pdf". The work is not finished yet. Indeed, one part of the code is made with Python, the other with AnyLogic. The goal is to combine the 2 codes, so you have to pass either everything in python or everything in AnyLogic. Enjoy!
+If you need more information about the project, read the project report "PJT2A_Rapport_FMEAgen.pdf" (French version only). The work is not finished yet. Indeed, one part of the code is made with Python, the other with AnyLogic. The goal is to combine the 2 codes, so you have to pass either everything in python or everything in AnyLogic. Enjoy!
 
